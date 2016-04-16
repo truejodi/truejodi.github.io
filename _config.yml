@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://truejodi.github.io
+title: Truejodi Matrimony
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
